@@ -67,6 +67,7 @@ public class StepDefinition extends BaseClass {
 	public void next_page() throws InterruptedException {
 
 		System.out.println("Next page ");
+		System.out.println("Hello");
 		Thread.sleep(2000);
 
 	}
